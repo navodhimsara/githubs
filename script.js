@@ -26,6 +26,34 @@ const videos = [
     {
       id: "grEKMHGYyns",
       title: "Java for Beginners Full Course"
+    },
+       {
+      id: "NuHnfVohZ5M",
+      title: "Java Introduction & Setup"
+    },
+    {
+      id: "OZcRD9fV7jo",
+      title: "Java Variables & Data Types"
+    },
+    {
+      id: "GoXwIVyNvX0",
+      title: "Object-Oriented Programming in Java"
+    },
+    {
+      id: "grEKMHGYyns",
+      title: "Java for Beginners Full Course"
+    },
+    {
+      id: "grEKMHGYyns",
+      title: "Java for Beginners Full Course"
+    },
+    {
+      id: "grEKMHGYyns",
+      title: "Java for Beginners Full Course"
+    },
+    {
+      id: "grEKMHGYyns",
+      title: "Java for Beginners Full Course"
     }
   ];
   
